@@ -8,7 +8,7 @@
  * [Information Extraction from Resume Documents in PDF Format 2016](https://www.researchgate.net/publication/312548217_Information_Extraction_from_Resume_Documents_in_PDF_Format)
  * [Limitations of Neural Networks-based NER for Resume Data Extraction 2020]()
  * [Resume Information Extraction with Cascaded Hybrid Model 2005](https://aclanthology.org/P05-1062/)
- * [Study of Information Extraction in Resume](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3349/)
+ * [Study of Information Extraction in Resume 2018](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3349/)
 
 ### Information Extraction Paper
 * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
