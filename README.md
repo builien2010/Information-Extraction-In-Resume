@@ -2,4 +2,5 @@
 Information Extraction from Resume, CV
 
 # Update
-1
+Input: 1 file pdf
+Output: dict{key: value}
