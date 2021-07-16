@@ -12,7 +12,7 @@
 
 ### Information Extraction Paper
 * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
- * [PICK](https://arxiv.org/pdf/2004.07464.pdf)
+* [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740)
  * [Deep Convolutional Nets for Document Image Classification and Retrieval](https://www.cs.cmu.edu/~aharley/icdar15/harley_convnet_icdar15.pdf)
  * [Table Detection in Invoice Documents by Graph Neural Network](https://priba.github.io/assets/publi/conf/2019_ICDAR_PRiba.pdf)
  * [Graph Convolution on Structured Documents](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/)
