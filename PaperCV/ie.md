@@ -45,4 +45,5 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
 * RVL-CDIP
 
 
-
+### New paper 2021
+* [A Span Extraction Approach for Information Extraction on Visually-Rich Documents](https://arxiv.org/pdf/2106.00978.pdf)
