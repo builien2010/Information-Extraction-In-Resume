@@ -1,8 +1,0 @@
-349	207	426	240	Good	other
-431	207	656	240	communication	other
-660	207	736	240	skills	other
-349	248	437	282	Easily	other
-442	248	525	282	adapt	other
-530	248	562	282	to	other
-566	248	630	282	new	other
-634	248	836	282	environments	other
