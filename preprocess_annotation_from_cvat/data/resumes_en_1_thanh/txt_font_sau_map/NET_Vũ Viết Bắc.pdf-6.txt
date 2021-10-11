@@ -1,0 +1,8 @@
+1477	135	1515	160	6/6	other	other
+297	426	359	453	.NET	other	other
+365	426	498	453	framework	other	other
+504	426	545	453	4.6	other	other
+297	464	517	492	CkEditor,CkFinder	other	other
+297	502	429	530	Javascript,	other	other
+435	502	499	530	Ajax.	other	other
+297	541	357	568	SQL.	other	other
